@@ -1,0 +1,131 @@
+body {
+  background-color: #a9d6e5;
+  text-align: center;
+  margin: 0;
+  font-family: 'Comfortaa', cursive;
+}
+
+.name {
+  margin-top: 0;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 60px;
+  color: #3d405b;
+}
+
+.para {
+  color: #2a6f97;
+}
+
+.spacer {
+  margin: 0;
+  border-style: solid;
+  border-top: 5px;
+}
+
+.dots {
+  border-style: dotted;
+  border-top: 10px;
+  border-width: 8px;
+  width: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin: 6px;
+}
+
+.hellop {
+  margin-top: 8px;
+  margin-bottom: 18px;
+  font-size: 20px;
+}
+
+.cycling {
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+.top {
+  background-color: #ade8f4;
+  padding-top: 112px;
+  font-family: 'Comfortaa', cursive;
+  font-size: 24px;
+  height: 536px;
+}
+
+.DP {
+  padding-top: 8px;
+  height: 245px;
+  width: 245px;
+  border-radius: 100%
+}
+
+.cycle {
+  height: 200px;
+  padding-top: 20px;
+}
+
+.cycling-p {
+  margin-top: 4px;
+  margin-bottom: 30px;
+}
+
+.cooking {
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+.cooking-p {
+  margin-top: 4px;
+  margin-bottom: 30px;
+}
+
+.get {
+  margin: 0;
+}
+
+.footer-link {
+  color: white;
+  padding: 15px;
+}
+
+.cook {
+  height: 200px;
+}
+
+.about {
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  display: inline-block;
+  font-family: 'Comfortaa', cursive;
+}
+
+.middle {}
+
+.pro {
+  text-decoration: underline;
+  background-color: white;
+  font-family: 'Comfortaa', cursive;
+}
+
+.bottom {
+  background-color: #457b9d;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  color: white;
+}
+
+.cloud_t {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  font-family: 'Comfortaa', cursive;
+}
+
+.cloud_b {
+  position: absolute;
+  left: 300px;
+  top: 200px;
+}
